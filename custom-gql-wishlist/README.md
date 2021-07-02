@@ -1,4 +1,4 @@
-#Example VSF wishlist plugin for Woocommerce.
+# Example VSF wishlist plugin for Woocommerce.
 
 This is a super simple user favourite products plugin for Vue Storefront 2. You can adapt this to work with other existing WooCommerce favourites plugins by adjusting the database queris in this plugin.  
 
